@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/Taeil2/nbm-reader-react-common
